@@ -1,0 +1,260 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DinvoiceStandalone2.0
+</name>
+</assembly>
+<members>
+<member name="T:DinvoiceStandalone2._0.Liability.LiabilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Liability.LiabilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Liability.LiabilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Liability">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.OutStandingDS.OutStandingDSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.OutStandingDS.OutStandingDSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.OutStandingDS.OutStandingDSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.OutStandingDS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.account">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.bg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.contacts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.dicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.dinvoiceicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.dinvoicelogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.excel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.excel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.Expander_Collapsed16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.Expander_Expanded16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.invoice">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.invoice1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.items">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.notify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.purchase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.question">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.rupee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.sales">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DinvoiceStandalone2._0.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.SubReport.InvoiceTailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.SubReport.InvoiceTailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.SubReport.InvoiceTailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.SubReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.VoucherSubReport.VoucherTailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.VoucherSubReport.VoucherTailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.VoucherSubReport.VoucherTailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.VoucherSubReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Logo.ImageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Logo.ImageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Logo.ImageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Logo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Asset.AssetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Asset.AssetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Asset.AssetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Asset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.CurrentStock.StockTblDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.CurrentStock.StockTblRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.CurrentStock.StockTblRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.CurrentStock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Ledger.LedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Ledger.LedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Ledger.LedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DinvoiceStandalone2._0.Ledger">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

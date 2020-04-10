@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VoucherSubReport" targetNamespace="http://tempuri.org/VoucherSubReport.xsd" xmlns:mstns="http://tempuri.org/VoucherSubReport.xsd" xmlns="http://tempuri.org/VoucherSubReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="VoucherSubReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="VoucherSubReport" msprop:Generator_UserDSName="VoucherSubReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VoucherTail" msprop:Generator_TableClassName="VoucherTailDataTable" msprop:Generator_TableVarName="tableVoucherTail" msprop:Generator_TablePropName="VoucherTail" msprop:Generator_RowDeletingName="VoucherTailRowDeleting" msprop:Generator_RowChangingName="VoucherTailRowChanging" msprop:Generator_RowEvHandlerName="VoucherTailRowChangeEventHandler" msprop:Generator_RowDeletedName="VoucherTailRowDeleted" msprop:Generator_UserTableName="VoucherTail" msprop:Generator_RowChangedName="VoucherTailRowChanged" msprop:Generator_RowEvArgName="VoucherTailRowChangeEvent" msprop:Generator_RowClassName="VoucherTailRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No" msprop:Generator_ColumnVarNameInTable="columnNo" msprop:Generator_ColumnPropNameInRow="No" msprop:Generator_ColumnPropNameInTable="NoColumn" msprop:Generator_UserColumnName="No" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:string" minOccurs="0" />
+              <xs:element name="BillDate" msprop:Generator_ColumnVarNameInTable="columnBillDate" msprop:Generator_ColumnPropNameInRow="BillDate" msprop:Generator_ColumnPropNameInTable="BillDateColumn" msprop:Generator_UserColumnName="BillDate" type="xs:string" minOccurs="0" />
+              <xs:element name="RefNo" msprop:Generator_ColumnVarNameInTable="columnRefNo" msprop:Generator_ColumnPropNameInRow="RefNo" msprop:Generator_ColumnPropNameInTable="RefNoColumn" msprop:Generator_UserColumnName="RefNo" type="xs:string" minOccurs="0" />
+              <xs:element name="BillAmt" msprop:Generator_ColumnVarNameInTable="columnBillAmt" msprop:Generator_ColumnPropNameInRow="BillAmt" msprop:Generator_ColumnPropNameInTable="BillAmtColumn" msprop:Generator_UserColumnName="BillAmt" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
