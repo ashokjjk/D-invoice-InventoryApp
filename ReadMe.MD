@@ -1,8 +1,8 @@
 # D-invoice Inventory Managemt App
 
-This is a Inventory management application. This application is not an opensource. Copyright protected.
-This application is developed in .Net framework using Vb as front end and Access Db as backend.
-It is made online only for study purpose and further developement ### not for trading.
+<p>This is a Inventory management application. This application is not an opensource. Copyright protected.</p>
+<p>This application is developed in .Net framework using Vb as front end and Access Db as backend.</p>
+<p>The code is made online only for study purpose and further developement <b>not for making profit at any forms.</b></p>
 
 1. This application can track stocks and prepare invoice for the delivery made.
 2. Almost all the options are made customizable to our knowledge.
